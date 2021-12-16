@@ -1,6 +1,9 @@
 {
   "name": "inter-frontend",
   "version": "0.1.0",
+  "description": "Front-End da Aplicação do Inter",
+  "author": "Ricardo Machado",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
