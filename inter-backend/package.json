@@ -1,14 +1,14 @@
 {
   "name": "inter-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend da Aplicação Inter",
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ricardo Machado",
+  "license": "MIT",
   "dependencies": {
     "@types/cors": "^2.8.12",
     "cors": "^2.8.5",
