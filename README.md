@@ -74,9 +74,3 @@ Atenção para o arquivo ormconfig.json que deve ser criado no back-end e config
 <li>TypeOrm</li>
 <li>JWT - JsonWebToken</li>
 <li>Docker</li>
-
-## Observações
-
-<h4 align="center"> 
-	🚀 Em construção...  🚧
-</h4>
